@@ -12,7 +12,7 @@
 
 ### About
 
-Second-year B.Tech student in Information &amp; Communication Technology at **Dhirubhai Ambani University** (formerly DA-IICT), Gandhinagar. I own backend on a RAG assistant used by real students, sandbox untrusted code in raw C for fun, and submit alpha signals to a global quant platform on the side.
+Third-year B.Tech student in Information &amp; Communication Technology at **Dhirubhai Ambani University** (formerly DA-IICT), Gandhinagar. I own backend on a RAG assistant used by real students, sandbox untrusted code in raw C for fun, and submit alpha signals to a global quant platform on the side.
 
 ---
 
@@ -35,7 +35,7 @@ Second-year B.Tech student in Information &amp; Communication Technology at **Dh
 |---|---|---|
 | Codeforces | [sortshort](https://codeforces.com/profile/sortshort) | **Pupil** · Peak 1247 |
 | CodeChef | [sortshort](https://www.codechef.com/users/sortshort) | **3★** · Peak 1630 |
-| LeetCode | [sortshort](https://leetcode.com/u/sortshort/) | — |
+| LeetCode | [sortshort](https://leetcode.com/u/sortshort/) | Peak 1728 |
 
 **650+** problems solved across Codeforces, LeetCode &amp; CodeChef combined. Also: **WorldQuant BRAIN** — Gold Level, #1 rank at DA-IICT, top 5% globally, 15+ alpha signals submitted · **Flipkart Gridlock Hackathon 2.0** — selected for Phase 2.
 
