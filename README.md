@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=74D0C0&center=true&vCenter=true&width=600&lines=Backend+%2B+AI%2FML+%7C+DA-IICT+%2F+DAU;Building+AURA+%E2%80%94+RAG+assistant+for+DAU;Competitive+Programmer+%7C+650%2B+problems+solved)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-74D0C0?style=for-the-badge&logo=vercel&logoColor=black)](https://parthagrawal-07-github-io.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-agrawal-368869325)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:202401010@dau.ac.in)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sortshort)
@@ -13,6 +14,8 @@
 ### About
 
 Third-year B.Tech student in Information &amp; Communication Technology at **Dhirubhai Ambani University** (formerly DA-IICT), Gandhinagar. I own backend on a RAG assistant used by real students, sandbox untrusted code in raw C for fun, and submit alpha signals to a global quant platform on the side.
+
+🌐 **Portfolio:** [parthagrawal-07-github-io.vercel.app](https://parthagrawal-07-github-io.vercel.app/)
 
 ---
 
