@@ -1,3 +1,5 @@
+<div align="center">
+
 # Parth Agrawal
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=74D0C0&center=true&vCenter=true&width=600&lines=Backend+%2B+AI%2FML+%7C+DA-IICT+%2F+DAU;Building+AURA+%E2%80%94+RAG+assistant+for+DAU;Competitive+Programmer+%7C+650%2B+problems+solved)](https://git.io/typing-svg)
@@ -8,6 +10,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sortshort)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sortshort/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sortshort)
+
+</div>
 
 ---
 
